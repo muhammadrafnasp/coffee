@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Concert+One&family=EB+Garamond:ital,wght@1,500&family=Oleo+Script+Swash+Caps:wght@700&family=Poppins:ital,wght@1,700&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Abril+Fatface&family=Concert+One&family=EB+Garamond:ital,wght@1,500&family=Oleo+Script+Swash+Caps:wght@700&family=Poppins:ital,wght@1,700&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Abril+Fatface&family=Concert+One&family=EB+Garamond:ital,wght@1,500&family=Oleo+Script+Swash+Caps:wght@700&family=Oswald&family=Poppins:ital,wght@1,700&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Abril+Fatface&family=Anton&family=Concert+One&family=EB+Garamond:ital,wght@1,500&family=Oleo+Script+Swash+Caps:wght@700&family=Oswald&family=Poppins:ital,wght@1,700&family=Sacramento&display=swap');
+body{
+
+    background-color: #F2DBA2;
+}
+#head{
+    background-color: #AF6E45;
+    text-align: center;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    position: sticky;
+    top: 0;
+
+}
+#head1{
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+}
+#para{
+    border: 2px solid black;
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 20px;
+    height: 200px;
+    width: 250px;
+    margin-left: 575px;
+    
+}
+#type{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+#coffee{
+   padding: 10px;
+}
+#center{
+    margin-left: 40px;
+}
+#brands{
+
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    width: 300px;
+    height: 500px;
+    margin: 5px;
+    float: left;
+    border: ridge 2px black;
+    margin-left: 140px;
+    box-shadow: 4px 4px 4px;
+
+
+}
+#img1{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+   
+}
+#top{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+
+}
+#img2{
+    height: 300px;
+    width: 300px;
+    float: left;
+    padding: 10px;
+    margin-left: 45px;
+    margin-top: -5px;
+}
+::-webkit-scrollbar{
+    width: 12px;
+}
+::-webkit-scrollbar-thumb{
+    background: #AF6E45;
+    border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #a38437;
+}
+#typ{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    padding: 54px;
+}
+#have{
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+
+}
+#color{
+    background: #AF6E45;
+    width: 700px;
+    height: 300px;
+    margin-left: 405px;
+    text-align: center;
+    border: 2px solid black;
+
+}
+#button{
+    background: #2e170a;
+    color: white;
+    margin-left: 70px;
+
+}
+#footer{
+    height: 200px;
+    width: 100%;
+    background: #AF6E45;
+    margin-top: 15px;
+    font-family: 'Aboreto', cursive;
+
+
+}
+#ads{
+    margin-left: 1200px;
+}
+#p0{
+    margin-left: 1200px;
+}
+#p1{
+    margin-top: -205px;
+    text-align: center;
+}
+#p2{
+    text-align: center;
+    margin-left: 300px;
+    float: left;
+    
+}
+#im{
+    width: 100px;
+    height: 100px;
+    margin-left: -1100px;
+}
+
+
